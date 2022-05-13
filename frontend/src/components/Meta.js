@@ -12,7 +12,7 @@ const Meta = ({ title, description, keywords }) => {
 }
 
 Meta.defaultProps = {
-  title: 'Welcome To LovelyThings - Home',
+  title: 'Welcome To KL-Stores - Home',
   description: 'We Are the one who Sells Best Products at Best Price Online',
   keywords: 'free shopping cart, buy prducts, cheap at price tag',
 }
